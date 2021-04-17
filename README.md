@@ -3,12 +3,12 @@ A [**SWAPI**](https://swapi.dev/) client written with Java
 
 This is a java impletation from [SWAPI](https://swapi.dev/) client with [Spring Boot](https://spring.io/projects/spring-boot).
 
-use to start aplication;
+use to start aplication:
 ```
 # gradle bootRun 
 ```
 
-use run aplication tests;
+use run aplication tests:
 ```
 # gradle test 
 ```
